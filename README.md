@@ -7,8 +7,24 @@
 - Python
 - C#
 
+## Available
+- C/C++
+- ROS
+
 ## Studying
 - Swift
+- HTML/CSS
+
+## Skills
+- develop software for controlling robots
+- develop software about AI, machine learning and related fileds
+- develop .Net Core Application
+
+# Environment
+- Windows (Also WSL)
+- Mac OS X
+- Linux (Ubuntu)
+- Git
 
 # Interest
 - Artificial Intelligence / Machine Learning
@@ -16,6 +32,10 @@
 - Software Development
 - OSS Development
 
+# Research Topic
+## At College
+My research topic was optimization algorithm, especially Ant Colony Optimization for Traveling Salesman Problem(TSP).
+I also used Genetic Algorithm and some other algorithms.
 # LICENSE
 All developments are under MIT License.
 Please use them as you want.
