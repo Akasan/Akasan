@@ -36,6 +36,11 @@
 ## At College
 My research topic was optimization algorithm, especially Ant Colony Optimization for Traveling Salesman Problem(TSP).
 I also used Genetic Algorithm and some other algorithms.
+
 # LICENSE
 All developments are under MIT License.
 Please use them as you want.
+
+# Contact 
+I'm looking for someone who can develop software with.
+Feel free to contact me if you have interests.
