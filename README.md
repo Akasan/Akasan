@@ -9,11 +9,11 @@
 
 ## Available
 - C/C++
-- ROS
 
 ## Studying
 - Swift
 - HTML/CSS
+- JavaScript
 
 ## Skills
 - develop software for controlling robots
@@ -26,11 +26,20 @@
 - Linux (Ubuntu)
 - Git
 
+# Graphics
+- Adobe Photoshop
+- Adobe XD
+
+# Movie 
+- DaVinci Resolve
+
 # Interest
 - Artificial Intelligence / Machine Learning
 - Optimization Algorithm
 - Software Development
 - OSS Development
+- Web development
+- Movie editting
 
 # Research Topic
 ## At College
