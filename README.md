@@ -15,6 +15,7 @@
 - HTML/CSS
 - JavaScript
 
+
 ## Skills
 - develop software for controlling robots
 - develop software about AI, machine learning and related fileds
