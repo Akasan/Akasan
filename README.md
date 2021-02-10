@@ -9,23 +9,26 @@
 
 ## Available
 - C/C++
-
-## Studying
 - Swift
-- HTML/CSS
+- HTML5 / CSS
 - JavaScript
-
+- SQL
 
 ## Skills
-- develop software for controlling robots
+- data science
+- control robot
 - develop software about AI, machine learning and related fileds
 - develop .Net Core Application
+- image processing
 
-# Environment
+# OS
 - Windows (Also WSL)
 - Mac OS X
-- Linux (Ubuntu)
+- Linux
+
+# Version Controlling
 - Git
+- DVC
 
 # Graphics
 - Adobe Photoshop
