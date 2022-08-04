@@ -10,19 +10,27 @@
 ## Available
 - C/C++
 - Swift
-- HTML5 / CSS
+- HTML / CSS
+  - tailwind css
 - JavaScript
+  - React
 - SQL
 
 ## Skills
 - data science
 - control robot
-- develop software about AI, machine learning and related fileds
+- develop software of AI, machine learning and related fileds
 - develop .Net Core Application
 - image processing
 
+# Tools
+- Github
+- Slack
+- Docker
+- Notion
+
 # OS
-- Windows (Also WSL)
+- Windows (including WSL)
 - Mac OS X
 - Linux
 
