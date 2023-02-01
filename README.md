@@ -3,18 +3,19 @@
 
 
 # Languages
-## Good at
+## Available
 - Python
 - C#
-
-## Available
 - C/C++
 - Swift
 - HTML / CSS
   - tailwind css
-- JavaScript
+- JavaScript/TypeScript
   - React
+  - Next.js
 - SQL
+  - MySQL
+  - PostgreSQL   
 
 ## Skills
 - data science
@@ -37,10 +38,6 @@
 # Version Controlling
 - Git
 - DVC
-
-# Graphics
-- Adobe Photoshop
-- Adobe XD
 
 # Movie 
 - DaVinci Resolve
