@@ -3,9 +3,8 @@
 
 
 # Languages
-## Available
 - Python
-- C#
+- C#(.NET)
 - C/C++
 - Swift
 - HTML / CSS
@@ -16,6 +15,7 @@
 - SQL
   - MySQL
   - PostgreSQL   
+- Golang
 
 ## Skills
 - data science
@@ -23,6 +23,9 @@
 - develop software of AI, machine learning and related fileds
 - develop .Net Core Application
 - image processing
+
+# Cloud
+- AWS
 
 # Tools
 - Github
