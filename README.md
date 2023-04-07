@@ -62,6 +62,10 @@ I also used Genetic Algorithm and some other algorithms.
 All developments are under MIT License.
 Please use them as you want.
 
+# Conference
+- SIGGRAPH 2021 `Sustainable Society With a Touchless Solution Using UbiMouse Under the Pandemic of COVID-19`
+    - [Link](https://s2021.siggraph.org/presentation/?id=gensubcur_107&sess=sess202)
+
 # Contact 
 I'm looking for someone who can develop software with.
 Feel free to contact me if you have interests.
