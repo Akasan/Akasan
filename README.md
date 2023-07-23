@@ -12,17 +12,20 @@
 - JavaScript/TypeScript
   - React
   - Next.js
-- SQL
+- Data management
   - MySQL
-  - PostgreSQL   
+  - PostgreSQL
+  - redis
 - Golang
 
 ## Skills
 - data science
 - control robot
 - develop software of AI, machine learning and related fileds
+- develop libraries
 - develop .Net Core Application
 - image processing
+- ML / AI development
 
 # Cloud
 - AWS
