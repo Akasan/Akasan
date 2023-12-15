@@ -20,6 +20,9 @@
 
 ## Skills
 - data science
+- Web Development
+    - Backend: RESTful (learning GraphQL now)
+        - Python(FastAPI)
 - control robot
 - develop software of AI, machine learning and related fileds
 - develop libraries
