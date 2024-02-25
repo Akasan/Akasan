@@ -4,6 +4,11 @@
 
 # Languages
 - Python
+  - Web Application (FastAPI)
+  - GUI (Tkinter, etc.)
+  - Artificial Intelligence(scikit-learn, numpy, PyTorch etc.)
+  - Library development
+  - etc.
 - C#(.NET)
 - C/C++
 - Swift
@@ -12,16 +17,17 @@
 - JavaScript/TypeScript
   - React
   - Next.js
-- Data management
+- SQL
   - MySQL
   - PostgreSQL
+- NoSQL
   - redis
 - Golang
 
 ## Skills
 - data science
 - Web Development
-    - Backend: RESTful (learning GraphQL now)
+    - Backend: RESTful, GraphQL
         - Python(FastAPI)
 - control robot
 - develop software of AI, machine learning and related fileds
@@ -29,6 +35,7 @@
 - develop .Net Core Application
 - image processing
 - ML / AI development
+- DevOps, CI/CD (GitHub Actions)
 
 # Cloud
 - AWS
