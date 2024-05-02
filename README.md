@@ -41,7 +41,7 @@
 - AWS
 
 # Tools
-- Github
+- Github(actions)
 - Slack
 - Docker
 - Notion
