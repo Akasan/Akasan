@@ -36,9 +36,16 @@
 - image processing
 - ML / AI development
 - DevOps, CI/CD (GitHub Actions)
+- MLOps Engineering
+    - AWS SageMaker
+    - Google Cloud Vertex AI
+    - OSS
+      - mlflow
+      - feast
 
 # Cloud
 - AWS
+- Google Cloud
 
 # Tools
 - Github(actions)
