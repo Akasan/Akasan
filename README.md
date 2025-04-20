@@ -42,16 +42,27 @@
     - OSS
       - mlflow
       - feast
+- NVIDIA
+    - NIM
+    - RAPIDS
 
 # Cloud
 - AWS
 - Google Cloud
+
+# [Certification](https://www.credly.com/users/daisuke-akagawa)
+- Google Cloud
+    - Associate Cloud Engineer
+- NVIDIA
+    - AI Infrastructure and Operations
 
 # Tools
 - Github(actions)
 - Slack
 - Docker
 - Notion
+- LLM/RAG
+    - Langflow
 
 # OS
 - Windows (including WSL)
