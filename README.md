@@ -53,6 +53,7 @@
 # [Certification](https://www.credly.com/users/daisuke-akagawa)
 - Google Cloud
     - Associate Cloud Engineer
+    - Professional Cloud Architect
 - NVIDIA
     - AI Infrastructure and Operations
 
