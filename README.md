@@ -54,6 +54,7 @@
 - Google Cloud
     - Associate Cloud Engineer
     - Professional Cloud Architect
+    - Professional Data Engineer
 - NVIDIA
     - AI Infrastructure and Operations
 
