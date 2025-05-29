@@ -55,6 +55,7 @@
     - Associate Cloud Engineer
     - Professional Cloud Architect
     - Professional Data Engineer
+    - Generative AI Leader
 - NVIDIA
     - AI Infrastructure and Operations
 
