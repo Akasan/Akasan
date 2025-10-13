@@ -2,6 +2,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Akasan&show_icons=true&private_count=true)
 
 [My Tech blog in Japanese](https://zenn.dev/akasan)
+[My blog in English on Medium](https://medium.com/@daisuke1024akagawa)
 
 # Languages
 - Python
