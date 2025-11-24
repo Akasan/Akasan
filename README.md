@@ -59,7 +59,8 @@
     - Professional Data Engineer
     - Generative AI Leader
 - NVIDIA
-    - AI Infrastructure and Operations
+    - Associate: AI Infrastructure and Operations
+    - Associate: Generative AI LLMs
 
 # Tools
 - Github(actions)
