@@ -47,6 +47,11 @@
 - NVIDIA
     - NIM
     - RAPIDS
+        - cuML
+        - cuDF
+    - garak
+    - NeMo
+        - Guardrails
 
 # Cloud
 - AWS
