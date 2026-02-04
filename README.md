@@ -66,8 +66,10 @@
 - NVIDIA
     - Associate: AI Infrastructure and Operations
     - Associate: Generative AI LLMs
+    - Associate: Generative AI Multimodal
     - Professional: Generative AI LLMs
     - Professional: Accelerated Data Science
+    - Professional: Agentic AI
 
 # Tools
 - Github(actions)
